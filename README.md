@@ -9,3 +9,4 @@
 - Ladbroke Road
 - Westbourne Park
 - Royal Oak
+- Paddington
