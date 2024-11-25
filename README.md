@@ -18,3 +18,4 @@
 - Farringdon
 - Barbican
 - Moorgate
+- Aldgate East
