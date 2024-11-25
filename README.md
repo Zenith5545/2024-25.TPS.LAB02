@@ -19,3 +19,4 @@
 - Barbican
 - Moorgate
 - Aldgate East
+- Whitechapel
