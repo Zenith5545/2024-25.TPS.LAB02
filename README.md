@@ -27,3 +27,4 @@
 - Plalstow
 - Upton Park
 - East Ham
+- Barking
