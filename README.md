@@ -17,3 +17,4 @@
 - Warren Street
 - Goodge Street
 - Tottenham Court Road
+- Leichester Square
