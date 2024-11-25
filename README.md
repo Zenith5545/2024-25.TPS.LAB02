@@ -12,3 +12,4 @@
 - Paddington
 - Edgware Road
 - Baker Street
+- Great Portland Street
