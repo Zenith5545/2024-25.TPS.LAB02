@@ -20,3 +20,4 @@
 - Leichester Square
 - Charing Cross
 - Embankment
+- Waterloo
