@@ -14,3 +14,4 @@
 - Baker Street
 - Great Portland Street
 - Euston Square
+- King's Cross & St Pancras International
