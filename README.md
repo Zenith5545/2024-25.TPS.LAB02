@@ -18,3 +18,4 @@
 - Goodge Street
 - Tottenham Court Road
 - Leichester Square
+- Charing Cross
