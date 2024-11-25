@@ -26,3 +26,4 @@
 - West Ham
 - Plalstow
 - Upton Park
+- East Ham
